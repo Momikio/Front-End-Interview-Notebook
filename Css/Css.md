@@ -398,7 +398,7 @@
             height: 400px;   
             margin: auto;
             top: 0;
-            left: 0;
+            left: 300;
             bottom: 0;
             right: 0;
             background-color: pink;	/* 方便看效果 */
