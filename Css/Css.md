@@ -395,7 +395,7 @@
             div{
             position: absolute;
             width: 300px;
-            height: 300px;
+            height: 400px;   
             margin: auto;
             top: 0;
             left: 0;
